@@ -1,13 +1,4 @@
-
-<!doctype html>
-<html>
-<head>
-	<meta charset= "UTF-8">
-
-<title> Juliana Mariscal- AVT 217 </title>
-	<style>
-		body {Background-color:#FFD700; font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; img{display: block; margin:0 auto 0 auto;} text-align: center}
-	</style>
+#Juliana Mariscal Home Page
 	
 	
 </head>

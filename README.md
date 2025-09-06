@@ -1,21 +1,18 @@
-#Juliana Mariscal Home Page
+# Juliana Mariscal Homepage
+
 	
 	
-</head>
-	
-	<h1> Index</h1>
 <br><br>
 <body><div>
-<h2>Week 1<h2>
-Image-
-Black Goose Bristow-
+<h2>Index-<br> <br> <br> Week 1 <br> <br>
+_Image-_<br> <br>
+_Black Goose Bristow-_
 <br><br><br><br>
 	
-<h2> Week 2 </h2>
-XXX
+ Week 2 
+_XXX_
 	<br><br><br><br>
 	
-	<h2>Week 3</h2>
-	  XXX</div>
+	
 </body>
 </html>

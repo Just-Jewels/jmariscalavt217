@@ -5,7 +5,7 @@
 <br><br>
 <body><div>
 <h2>Index-<br> <br> <br> Week 1 <br> <br>
-<a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week 1/ghost_remix_desktop.png>
+<a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week 1/ghost_remix_desktop.png> Index- </a>
 
 	<br> <br>
 Black Goose Bristow-

@@ -1,8 +1,8 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Juliana Mariscal's Coursepage</title>
+
 </head>
 
 <body>

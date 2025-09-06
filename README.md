@@ -5,12 +5,14 @@
 <br><br>
 <body><div>
 <h2>Index-<br> <br> <br> Week 1 <br> <br>
-_Image-_<br> <br>
-_Black Goose Bristow-_
+Image-
+	[
+	<br> <br>
+Black Goose Bristow-
 <br><br><br><br>
 	
- Week 2 
-_XXX_
+ Week 2 <br> <br>
+XXX
 	<br><br><br><br>
 	
 	

@@ -5,7 +5,7 @@
 <br><br>
 <body><div>
 <h2>Index-<br> <br> <br> Week 1 <br> <br>
-[Image-]
+<a href="https://avt217/weekly/Week 1/ghost_remix_desktop.png">Image-</a>
 	(avt217/weekly/Week 1/ghost_remix_desktop.png)
 	<br> <br>
 Black Goose Bristow-

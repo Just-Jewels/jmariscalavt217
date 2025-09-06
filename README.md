@@ -20,7 +20,7 @@
 
 <dl>
 	<dt>Week 2</dt>
-    <dd>e2: LWD Chapter 4 1-5 exercises</dd>
+    <dd><a herf="">e2: LWD Chapter 4 1-5 exercises</dd>
 </dl>
 
 <dl>

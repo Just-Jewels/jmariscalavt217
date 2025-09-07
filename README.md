@@ -38,7 +38,7 @@
 <dl>
 
 	<dt>Research on existing websites</dt>
-    <dd>p1.1: Website critique </dd>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique </dd>
     <dd>p1.2: Sitemap </dd>
 	<dd>p1.3: Wireframe-desktop and mobile </dd>
 </dl>

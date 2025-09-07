@@ -38,20 +38,20 @@
 <dl>
 
 	<dt>Research on existing websites</dt>
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique</a> </dd>
-    <dd>p1.2: Sitemap </dd>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique</a> </dd> </dl> <dl>
+    <dd>p1.2: Sitemap </dd></dl> <dl>
 	<dd>p1.3: Wireframe-desktop and mobile </dd>
 </dl>
 <dl>
 
-	<dt>My design </dt>
-    <dd>p2.1: Style board </dd>
-    <dd>p2.2: Mobile and desktop wireframes</dd>
-    <dd>p2.3: First iteration of mobile designs</dd>
-	<dd>p2.4: Second iteration of mobile designs</dd>
-    <dd>p2.5: First iteration of desktop designs</dd>
-	<dd>p2.6: Second iteration of desktop designs</dd>
-	<dd>p2.7: Final refinement of mobile and desktop designs</dd>
+	<dt>My design </dt></dl>
+    <dl><dd>p2.1: Style board </dd><dl>
+   <dl> <dd>p2.2: Mobile and desktop wireframes</dd> </dl> 
+   <dl> <dd>p2.3: First iteration of mobile designs</dd> </dl>
+	<dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl>
+   <dl> <dd>p2.5: First iteration of desktop designs</dd> </dl></dl>
+<dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
+	<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> 
 </dl>
 	
 <dl>

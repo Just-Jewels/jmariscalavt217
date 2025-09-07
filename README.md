@@ -21,10 +21,9 @@
 
 <dl>
 	<dt>Week 2</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/index.html">e1:Black Goose Bristow</a></dd>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/index.html">e2: LWD Chapter 4 1-5 exercises</a></dd>
 </dl>
-    <dd><a herf="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">e2: LWD Chapter 4 1-5 exercises</dd>
-</dl>
+    
 
 <dl>
 	<dt>Week 3</dt>

@@ -15,7 +15,7 @@
 <h4>Weekly Exercises</h4>
 <dl>
 	<dt>Week 1</dt> 
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/weekly/Week 1/ghost_remix_desktop.png">e1: First image</a></dd>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd>
 </dl> <dl>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week 1/index.html">e2:Black Goose Bristow</a></dd>
 </dl>

@@ -32,7 +32,7 @@
 
 
 
-</div><!-- weekly ends-->
+<!-- weekly ends-->
 <div id="project">
 <h4>Project</h4>
 <dl>

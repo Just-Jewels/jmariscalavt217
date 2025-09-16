@@ -27,7 +27,7 @@
 
 <dl>
 	<dt>Week 3</dt>
-	<dd>e3: Marking up text</dd>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
 </dl>
 
 

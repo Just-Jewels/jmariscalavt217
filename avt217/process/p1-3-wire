@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset= "UTF-8">
+
+<title> P1-3 Ironmouse Wire Frame </title>
+	<style>
+		body {Background-color:; font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; img{display: block; margin:0 auto 0 auto;} text-align: center
+			
+		
+		
+		}
+	</style>
+	
+	
+</head>
+	
+	<h1> Project 1- Music Artist: Ironmouse Wire Frame</h1>
+<br><br>
+<body>
+<div>
+  <h2>Mobile</h2><img src="file:///C|/Users/write/Downloads/IMG_0671.jpeg" width="1920" height="1080" alt=""/>
+
+<br><br><br><br>
+	
+<h2>Desktop</h2>
+<br><br><br><br>
+	
+<img src="file" width="1920" height="1080" alt="webpage" />
+</div></body>
+
+</html>
+
+
+
+
+

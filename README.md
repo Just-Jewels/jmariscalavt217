@@ -39,7 +39,7 @@
 
 	<dt>Research on existing websites</dt>
     <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique</a> </dd> </dl> <dl>
-    <dd><a href="https://just-jewels.github.io/jmarisalavt217/avt217/process/P1-2-Ironmouse-Webpage-Live.html">p1.2: Sitemap </a></dd></dl> <dl>
+    <dd><a href="[https://just-jewels.github.io/jmarisalavt217/avt217/process/P1-2-Ironmouse-Webpage-Live.html])">p1.2: Sitemap </a></dd></dl> <dl>
 	<dd>p1.3: Wireframe-desktop and mobile </dd>
 </dl>
 <dl>

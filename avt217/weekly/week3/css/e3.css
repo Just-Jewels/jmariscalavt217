@@ -1,6 +1,27 @@
-@charset "UTF-8";
-/* CSS Document */
+@charset "utf-8";
+	body {Background-color:#f9fbe3 ; font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; margin-left:10%; margin-right:5%; font-size: 20px; text-align: center} 
+	nav{
+		
+	}
+	header {
+	background-color:#59A225;
+	padding-bottom: 20px;
+}
 
-body {
-	background-color: blueviolet;
+li {
+	list-style-type: none;
+	display:inline;
+	margin-right:15px;
+}
+
+h2, h3, em {
+	color:#416726;
+}
+
+p {
+	line-height: 1.5em;
+}
+.posttime {
+	color:#B36F6A;
+	font-size:0.7em;
 }

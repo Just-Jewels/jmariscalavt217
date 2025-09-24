@@ -1,8 +1,9 @@
 @charset "UTF-8";
-	body {Background-color:#f9fbe3 ; font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; margin-left:10%; margin-right:5%; font-size: 20px; text-align: center} 
-	nav{
-		
-	}
+
+	body {Background-color:#f9fbe3 ; font-family: Segoe, "Segoe UI", 
+		"DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; margin-left:10%; 
+		  margin-right:5%; font-size: 20px; text-align: center} 
+
 	header {
 	background-color:#59A225;
 	padding-bottom: 20px;

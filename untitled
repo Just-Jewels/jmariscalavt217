@@ -1,0 +1,87 @@
+@charset "UTF-8";
+/* CSS Document */
+
+:root { 
+  title-font-family: 'wildbreath.otf', sans-serif;
+  value-font-family: 'wildbreath.otf', sans-serif;
+  glow-color: #FFECC7;
+  title-font-size: 15px !important;
+  value-font-size: 10px !important; color: aliceblue
+} 
+#wrapper{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+body { margin:0;padding:0;line-height: 1.6e;}
+
+.image-container{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text-wrapper{font-family: "chercan", sans-serif;
+font-weight: 400;
+font-style: normal;text-align: center;
+  position: absolute;
+  width: 100%;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.bodies{font-family: "chercan", sans-serif;
+font-weight: 400;
+font-style: normal;text-align: center;
+  width: 100%;
+  bottom: inherit;
+  top: 105px;
+  left: auto;
+  right: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title-container{text-align: center;
+  position: relative;
+  width: 100%;
+  font-family: var'The Wild Breath of Zelda', sans-serif;
+  font-size: var'The Wild Breath of Zelda', sans-serif;
+  color: white; 
+  text-shadow: 0 0 30px var(--glow-color), 0 0 50px var(--glow-color), 0 0 40px var(--glow-color), 0 0 10px var(--glow-color);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+ 
+}
+@font-face {font-family: brea}
+.title-container-bottom{
+  text-align: center;
+}
+
+.value-container{
+  position: relative;
+  z-index: 999;
+  font-family: var(--value-font-family);
+  font-size: var(--value-font-size);
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+
+}
+
+
+.value-container-bottom{
+  text-align: center;
+}
+a:link {text-decoration: none;
+	color: aquamarine;}
+a:visited {color: goldenrod}
+a:hover {color:forestgreen}
+.demo {font-weight:100;
+	font-style:italic;
+	color:lemonchiffon;
+	
+	
+}

@@ -46,7 +46,7 @@
 
 	<dt>My design </dt></dl>
     <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/Project-2.1.html">p2.1: Style board </a></dd><dl>
-   <dl> <dd>p2.2: Mobile and desktop wireframes</dd> </dl> 
+   <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.2-wire.html">p2.2: Mobile and desktop wireframes</a></dd> </dl> 
    <dl> <dd>p2.3: First iteration of mobile designs</dd> </dl>
 	<dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl>
    <dl> <dd>p2.5: First iteration of desktop designs</dd> </dl></dl>

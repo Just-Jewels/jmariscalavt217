@@ -36,6 +36,12 @@
 </dl></div>
 
 
+<dt>Week 6</dt>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: Marking up text</a></dd>
+</dl></div>
+
+
+
 </div>
   <div class="column"></div>
 

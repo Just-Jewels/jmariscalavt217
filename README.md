@@ -36,13 +36,13 @@
 <dl>
 	<dt>Week 3</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
-</dl></div>
+</dl>
 <dt>Web typography-Seven Principles</dt>
 	<dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>
 </dl></div>
 <dt>Week 6</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html">e6: Web Typography-Seven Principles</a></dd>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a></dd>
 </dl></div>
 	
 
@@ -68,8 +68,7 @@
 	<dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl>
    <dl> <dd>p2.5: First iteration of desktop designs</dd> </dl></dl>
 <dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
-	<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> 
-</dl>
+	<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl>
 	
 <dl>
 	<dt>My coding </dt>

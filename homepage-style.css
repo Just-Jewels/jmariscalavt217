@@ -7,7 +7,15 @@
   glow-color: #FFECC7;
   title-font-size: 15px !important;
   value-font-size: 10px !important; color: aliceblue
-} 
+}  @font-face {
+        font-family: 'MyCustomFont'; /* Choose a name for your font */
+        src: url('../fonts/MyCustomFont.woff2') format('woff2'), /* Adjust path as needed */
+             url('../fonts/MyCustomFont.woff') format('woff'),
+             url('../fonts/MyCustomFont.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap; /* Improves performance by displaying text with a fallback font while the custom font loads */
+    }
 #wrapper{
 	margin-left: 15%;
 	margin-right: 15%;

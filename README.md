@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <html><meta charset="UTF-8">
 	<head> <style> body { background-color: #3c3c50}</style>

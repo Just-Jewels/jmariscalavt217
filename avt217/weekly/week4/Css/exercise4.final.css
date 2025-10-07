@@ -1,7 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 
- 
+ :root {
+      --background: #fdfdfd;
+      --text: #222;
+      --muted: #666;
+      --accent: #333;
+      --highlight: #0055aa;
+      --font-heading: 'Playfair Display', serif;
+      --font-body: 'Inter', sans-serif;
+    }
 
     * {
       box-sizing: border-box;
@@ -107,4 +115,5 @@
 		
 	
 }
+
 }

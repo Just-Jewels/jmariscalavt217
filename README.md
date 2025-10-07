@@ -1,8 +1,8 @@
 <!doctype html>
 
-<html>
-	<head> <style> body { background-color: #3c3c50}</style>
-<meta charset="UTF-8">
+<html><meta charset="UTF-8">
+	<head> <style> body {background-color: #3c3c50}</style>
+
 <link rel="stylesheet" href="https://use.typekit.net/fkq3zfy.css">
 <link href="jmariscalavt217/Untitled-1.css" rel="stylesheet" type="text/css">
 </head>

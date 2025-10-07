@@ -2,15 +2,15 @@
 /* CSS Document */
 
 :root { 
-  title-font-family: 'wildbreath.otf', sans-serif;
-  value-font-family: 'wildbreath.otf', sans-serif;
+  title-font-family: 'BOTW.otf', sans-serif;
+  value-font-family: 'BOTW.otf', sans-serif;
   glow-color: #FFECC7;
   title-font-size: 15px !important;
   value-font-size: 10px !important; color: aliceblue
 }  
 @font-face {
         font-family: 'BOTW'; 
-        src: url('avt217/The Wild Breath of Zelda.otf') format('oft');
+        src: url('avt217/BOTW.otf') format('oft');
         font-weight: normal;
         font-style: normal;
         font-display: swap; /* Improves performance by displaying text with a fallback font while the custom font loads */

@@ -1,9 +1,9 @@
 
 
 <html><meta charset="UTF-8">
-	<head> <style> body { background-color: #3c3c50}</style>
+	<head> <style> body { background-color: #3c3c50}
 <meta charset="UTF-8">
-<link rel="stylesheet" href="homepage-style.css">
+<link rel="stylesheet" href="homepage-style.css"></style>
 </head>
 
 <body>

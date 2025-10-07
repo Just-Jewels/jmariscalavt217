@@ -3,8 +3,7 @@
 <html><meta charset="UTF-8">
 	<head> <style> body { background-color: #3c3c50}</style>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="avt217/homepage-style.css">
-<link href="Untitled-1.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="homepage-style.css">
 </head>
 
 <body>

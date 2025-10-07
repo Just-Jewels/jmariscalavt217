@@ -35,9 +35,11 @@
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
 </dl></div>
 
-
-<dt>Week 6</dt>
+<dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>
+</dl></div>
+<dt>Week 6</dt>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e6: Web Typography-Seven Principles</a></dd>
 </dl></div>
 
 

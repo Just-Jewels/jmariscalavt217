@@ -20,7 +20,7 @@
 <dl><br><div class="bodies"><span class= "text-wrapper-bottom">
 	<dt>Week 1</dt> 
     <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></span>
-</dl> <dl>
+ <dl>
 	
 
 <dl>
@@ -32,7 +32,7 @@
 <dl>
 	<dt>Week 3</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
-</dl></div>
+</dl>
 
 <dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>

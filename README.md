@@ -82,10 +82,10 @@
 <dl>
 	<dt>Publishing</dt>
     <dd>Final site</dd>
-</dl></div>
+</dl>
 	
-	</dl></div><!-- project ends-->
-	</dl></div><!-- wrapper ends-->
+	</dl>
+	</dl>
 
-	</div></body>
+	</body>
 </html>

@@ -46,7 +46,7 @@
 </dl></div>
 	<dt>Week 7</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
-
+<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dd>
 
 </div>
   <div class="column"></div>

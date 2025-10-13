@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: white;
+}
+
+/* Header */
+.header {
+  background-color: #D46A6A; /* salmon/red */
+  height: 60px;
+}
+
+/* White line */
+.white-line {
+  background-color: white;
+  height: 8px;
+}
+
+/* Navigation bar */
+.nav {
+  background-color: #B37749; /* brown */
+  height: 25px;
+}
+
+/* Main content area */
+.main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: white;
+}
+
+.box {
+  background-color: #D3B6A5; /* light beige */
+  flex: 1;
+  height: 300px;
+  margin: 0 10px;
+}
+
+/* Remove margin from first and last box */
+.box:first-child {
+  margin-left: 0;
+}
+.box:last-child {
+  margin-right: 0;
+}
+
+/* Footer */
+.footer {
+  background-color: #6E2C2C; /* dark red */
+  height: 50px;
+}
+cument */

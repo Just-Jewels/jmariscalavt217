@@ -41,12 +41,13 @@
 	<dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>
 </dl>
-<dt>Week 6</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a></dd>
-</dl></div>
-	<dt>Week 7</dt>
+
+<dt>Week 6</dt><dl>
+	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl>
+</div>
+	<dt>Week 7</dt><dl>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
-<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a>
+<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl>
 
 
 </div>

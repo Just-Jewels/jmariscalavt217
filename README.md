@@ -3,7 +3,7 @@
 <html>
 	<head> 
 		
-		<style> body {background-color: #05081c} </style>
+		<style> body {background-color: #1F3B4D} </style>
 		 
 <meta charset="UTF-8">
 <link rel="stylesheet" href="homepage-style.css">

@@ -46,7 +46,7 @@
 </dl></div>
 	<dt>Week 7</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
-<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dd>
+<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a>
 
 </div>
   <div class="column"></div>
@@ -66,9 +66,9 @@
 	<dt>My design </dt></dl>
     <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/Project-2.1.html">p2.1: Style board </a></dd><dl>
    <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.2-wire.html">p2.2: Desktop</a> and <a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/mobile-p2.html">Mobile </a>wireframes</dd> </dl> 
-   <dl> <dd><a href= "https://just-jewels.github.io/jmariscalavt217/avt217/process/project%202.4/p2.3.html>pp2.3: First iteration of mobile designs</a> </dd> </dl>
+   <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/project%202.4/p2.3.html> pp2.3: First iteration of mobile designs </a> </dd> </dl>
 	<dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl>
-   <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.4: Second iteration of mobile designs</a></dd> </dl></dl>
+   <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.5: First Iteration of Desktop Designs</a></dd> </dl></dl>
 <dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
 	<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl>
 	
@@ -89,5 +89,4 @@
 	</dl>
 	</dl>
 
-	</body>
-</html>
+	

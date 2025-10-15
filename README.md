@@ -57,7 +57,7 @@
 <!-- weekly ends-->
 <div id="project"><div class="row">
   <div class="column">
-<h4>Project</h4>
+<h4>Project</h4><div class="bodies"><span class= "text-wrapper-bottom">
 <dl><dl><dl>
 
 	<dt>Research on existing websites</dt>

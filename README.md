@@ -55,7 +55,8 @@
   
 
 <!-- weekly ends-->
-<div id="project"><div class="column">
+<div id="project"><div class="row">
+  <div class="column">
 <h4>Project</h4>
 <dl><dl><dl>
 
@@ -75,7 +76,7 @@
 <dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
 	<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl>
 	
-</div><dl>
+</div></div></div><dl>
 	<dt>My coding </dt>
     <dd>p3.1: Homepage</dd>
     <dd>p3.2: About page</dd>

@@ -1,97 +1,130 @@
 @charset "UTF-8";
 /* CSS Document */
 
-:root { 
-  title-font-family: 'BOTW.otf', sans-serif;
-  value-font-family: 'BOTW.otf', sans-serif;
-  glow-color: #FFECC7;
-  title-font-size: 15px !important;
-  value-font-size: 10px !important; color: aliceblue
-}  
+/* Font Face Declarations */
 @font-face {
-        font-family: 'BOTW'; 
-        src: url('avt217/BOTW.otf') format('oft');
-        font-weight: normal;
-        font-style: normal;
-        font-display: swap; /* Improves performance by displaying text with a fallback font while the custom font loads */
-    }@font-family{ font-family: 'Kogok'; 
-             src:url('avt217/kogok.otf') format('otf');}
-				@font-family{ font-family: 'Universitas'; 
-           scr: url('avt217/universitas_studii_salamantini.otf') format('oft');}
-#wrapper{
-	margin-left: 15%;
-	margin-right: 15%;
-}
-body { margin:0;padding:0;line-height: 1.6e;color:#FFFDD0}
-
-.image-container{
-  position: absolute;
-  top: 0;
-  left: 0;
+    font-family: 'BOTW';
+    src: url('avt217/BOTW.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
-.text-wrapper{font-family: "BOTW", sans-serif;
-font-weight: 400;
-font-style: normal;text-align: center;
-  position: absolute;
-  width: 100%;
-  height: 90px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  
+@font-face {
+    font-family: 'Kogok';
+    src: url('avt217/kogok.otf') format('opentype');
 }
 
-.bodies{font-family: "Universitas", sans-serif;
-font-weight: 400;
-font-style: normal;text-align: center;
-  width: 100%;
-  bottom: inherit;
-  top: 105px;
-  left: auto;
-  right: auto;
-  margin-right: auto;
-  margin-left: auto;
+@font-face {
+    font-family: 'Universitas';
+    src: url('avt217/universitas_studii_salamantini.otf') format('opentype');
 }
 
-.title-container{text-align: center;
-  position: relative;
-  width: 100%;
-  font-family: var'BOTW', sans-serif;
-  font-size: var'BOTW', sans-serif;
-  color: white; 
-  text-shadow: 0 0 30px var(--glow-color), 0 0 50px var(--glow-color), 0 0 40px var(--glow-color), 0 0 10px var(--glow-color);
-  text-transform: uppercase;
-  letter-spacing: 4px;
- 
-}
-@font-face {font-family: brea}
-.title-container-bottom{
-  text-align: center;
+/* CSS Variables (must use -- for custom properties) */
+:root {
+    --title-font-family: 'BOTW', sans-serif;
+    --value-font-family: 'BOTW', sans-serif;
+    --glow-color: #FFECC7;
+    --title-font-size: 15px;
+    --value-font-size: 10px;
+    --text-color: aliceblue;
 }
 
-.value-container{
-  position: relative;
-  z-index: 999;
-  font-family: var(--value-font-family);
-  font-size: var(--value-font-size);
-  color: white;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: var(--text-color);
+    font-family: sans-serif;
 }
 
-
-.value-container-bottom{
-  text-align: center;
+#wrapper {
+    margin-left: 15%;
+    margin-right: 15%;
 }
-a:link {text-decoration: none;
-	color: aquamarine;}
-a:visited {color: goldenrod}
-a:hover {color:forestgreen}
-.demo {font-weight:100;
-	font-style:italic;
-	color:lemonchiffon;
-	
-	
+
+/* Image */
+.image-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* Text Container */
+.text-wrapper {
+    font-family: var(--title-font-family);
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Body Text */
+.bodies {
+    font-family: 'Universitas', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: 105px;
+}
+
+/* Title Styling */
+.title-container {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    font-family: var(--title-font-family);
+    font-size: var(--title-font-size);
+    color: white;
+    text-shadow: 0 0 30px var(--glow-color), 0 0 50px var(--glow-color), 0 0 40px var(--glow-color), 0 0 10px var(--glow-color);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+/* Optional extra style */
+.title-container-bottom {
+    text-align: center;
+}
+
+/* Value Text */
+.value-container {
+    position: relative;
+    z-index: 999;
+    font-family: var(--value-font-family);
+    font-size: var(--value-font-size);
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.value-container-bottom {
+    text-align: center;
+}
+
+/* Link Styling */
+a:link {
+    text-decoration: none;
+    color: aquamarine;
+}
+a:visited {
+    color: goldenrod;
+}
+a:hover {
+    color: forestgreen;
+}
+
+/* Demo Text */
+.demo {
+    font-weight: 100;
+    font-style: italic;
+    color: lemonchiffon;
 }

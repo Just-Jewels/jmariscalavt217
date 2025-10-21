@@ -80,8 +80,7 @@
 <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.5: First Iteration of Desktop Designs</a></dd> </dl></dl>
 <dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
 <dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl>
-	</table>
-</div></div></div><dl>
+<dl>
 	<dt>My coding </dt>
     <dd>p3.1: Homepage</dd>
     <dd>p3.2: About page</dd>
@@ -93,7 +92,7 @@
 <dl>
 	<dt>Publishing</dt>
     <dd>Final site</dd>
-</dl></tr>
+</dl>
 	
 	</dl>
 	</dl>

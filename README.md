@@ -18,7 +18,7 @@
 		<tr>
 	<th><h2>Juliana Mariscal </h2>
 	<h3>Fall 2025 and Section-001 </h3></th></tr>
-
+	</table>
 <div class="weekly">
   <div class="column">
 

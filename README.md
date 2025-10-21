@@ -17,38 +17,42 @@
 	<table>
 		<tr>
 	<th></th><h2>Juliana Mariscal </h2>
-	<h3>Fall 2025 and Section-001 </h3></div></th>
+	<h3>Fall 2025 and Section-001 </h3></div></th></tr>
 
 <div class="weekly"><div class="row">
   <div class="column">
+
+	 
 <tb><h4>Weekly Exercises</h4></tb>
-<dl><br><div class="bodies"><span class= "text-wrapper-bottom">
+
+<tr><dl><br><div class="bodies"><span class= "text-wrapper-bottom">
 	<dt>Week 1</dt> 
     <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></span>
- <dl></th>
+ <dl></th></dl><tr>
 	
 
-<tb><dl>
+<tr><tb><dl>
 	<dt>Week 2</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html">e2: LWD Chapter 4 1-5 exercises</a></dd>
-</dl></tb>
+</dl></tb></tr>
     
 
-<dl>
+<tr><dl>
 <th>	<dt>Week 3</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
-</dl></th>
+</dl></th></tr>
+<tr>
 <td><dt>Web typography-Seven Principles</dt>
 	<dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>
-</dl></td>
+</dl></td></tr>
 
-<td><dt>Week 6</dt><dl>
-	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl></td>
+<tr><td><dt>Week 6</dt><dl>
+	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl></td></tr>
 
-	<td><dt>Week 7</dt><dl>
+	<tr><td><dt>Week 7</dt><dl>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
-<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl>
+<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl></tr>
 
 
 </div>
@@ -76,7 +80,7 @@
    <td><dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.5: First Iteration of Desktop Designs</a></dd> </dl></dl></td>
 <td><dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl></td>
 	<td><dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl></td>
-	
+	</table>
 </div></div></div><dl>
 	<dt>My coding </dt>
     <dd>p3.1: Homepage</dd>

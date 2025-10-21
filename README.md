@@ -25,38 +25,38 @@
 	 
 <tb><h4>Weekly Exercises</h4></tb>
 
-<tr><dl><br><div class="bodies"><span class= "text-wrapper-bottom">
+<tb><dl><br><div class="bodies"><span class= "text-wrapper-bottom">
 	<dt>Week 1</dt> 
     <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></span>
- <dl></dl><tr>
+ </dl>
 	
 
-<tr><tb><dl>
+<dl>
 	<dt>Week 2</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html">e2: LWD Chapter 4 1-5 exercises</a></dd>
-</dl></tb></tr>
+</dl>
     
 
-<tr><dl>
+<dl>
 	<dt>Week 3</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
-</dl></tr>
-<tr>
-<td><dt>Web typography-Seven Principles</dt>
+</dl>
+
+<dt>Web typography-Seven Principles</dt>
 	<dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>
-</dl></td></tr>
+</dl>
 
-<tr><td><dt>Week 6</dt><dl>
-	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl></td></tr>
+<dt>Week 6</dt><dl>
+	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl>
 
-	<tr><td><dt>Week 7</dt><dl>
+	<dt>Week 7</dt><dl>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
-<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl></tr>
+<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl>
 
 
 </div>
-</div></tr></td>
+</div></div></tb>
   
 
 <!-- weekly ends-->

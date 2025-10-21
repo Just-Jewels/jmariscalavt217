@@ -61,26 +61,26 @@
 
 <!-- weekly ends-->
 <div id="project"><div class="row">
-  <div class="column">
-<td><h4>Project</h4><div class="bodies"><span class= "text-wrapper-bottom"></td>
+  <div class="column"><tb>
+<h4>Project</h4><div class="bodies"><span class= "text-wrapper-bottom">
 <dl><dl><dl>
 
-	<td><dt>Research on existing websites</dt>
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique</a> </dd> </dl> <dl></td>
-   <td> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/P1-2-Ironmouse-Webpage-Live.html"> p1.2: Sitemap </a></dd></dl> </td><td><dl>
+	<dt>Research on existing websites</dt>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique</a> </dd> </dl> <dl>
+  <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/P1-2-Ironmouse-Webpage-Live.html"> p1.2: Sitemap </a></dd></dl> <dl>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p1-3-wires.html"> p1.3: Wireframe-desktop and mobile </a></dd>
-</dl></td>
-<td><dl> 
+</dl>
+<dl> 
 
 	<dt>My design </dt></dl></td>
-    <td><dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/Project-2.1.html">p2.1: Style board </a></dd></td>
-   <td><dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.2-wire.html">p2.2: Desktop</a> and <a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/mobile-p2.html">Mobile </a>wireframes</dd> </dl> </td>
-  <td> <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/project%202.4/p2.3.html"> pp2.3: First iteration of mobile designs </a> </dd> </dl></td>
-	<td><dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl></td>
-   <td><dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.5: First Iteration of Desktop Designs</a></dd> </dl></dl></td>
-<td><dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl></td>
-	<td><dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl></td>
-	</table>
+   <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/Project-2.1.html">p2.1: Style board </a></dd>
+<dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.2-wire.html">p2.2: Desktop</a> and <a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/mobile-p2.html">Mobile </a>wireframes</dd> </dl>
+<dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/project%202.4/p2.3.html"> pp2.3: First iteration of mobile designs </a> </dd> </dl>
+<dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl>
+<dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.5: First Iteration of Desktop Designs</a></dd> </dl></dl>
+<dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
+<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl>
+	</tb></table>
 </div></div></div><dl>
 	<dt>My coding </dt>
     <dd>p3.1: Homepage</dd>

@@ -27,19 +27,19 @@
 
 <tb><dl><br><div class="bodies"><span class= "text-wrapper-bottom">
 	<div class="row"><dt>Week 1</dt> 
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></div>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png"> e1: First image</a></dd></div>
 
 	
 
 <dl>
 	<div class="row"><dt>Week 2</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html">e2: LWD Chapter 4 1-5 exercises</a></dd></div>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html"> e2: LWD Chapter 4 1-5 exercises</a></dd></div>
 </dl>
     
 
 <dl>
 	<div class="row"><dt>Week 3</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd></div>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html"> e3: Marking up text </a></dd></div>
 </dl>
 
 <div class="row"><dt>Web typography-Seven Principles</dt>

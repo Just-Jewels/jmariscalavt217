@@ -12,21 +12,93 @@ img {
 	height:auto;
 }
 
-.box1{
-	position: absolute;
-	bottom: 8px;
-	left:16px;
-	background-color:blanchedalmond;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
 }
 
-.box2 {
-	position:fixed;
-	top: 2px;
-	left:16px;
-	background-color:aquamarine;
-	padding: 10px 20px;
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
 }
 
-.insidebox2 {
-	background-color: burlywood;
+/* Base box style */
+.box {
+  width: 200px;
+  height: 100px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+/* Relative box */
+.relative-box {
+  position: relative;
+  left: 30px;
+  background-color: teal;
+}
+
+/* Wrapper for absolute positioning */
+.positioning-wrapper {
+  position: relative;
+  height: 150px;
+  background-color: #f0f0f0;
+  margin: 20px 0;
+}
+
+.absolute-box {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  background-color: darkorange;
+}
+
+/* Fixed box */
+.fixed-box {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: crimson;
+  z-index: 100;
+}
+
+/* Sticky box */
+.sticky-box {
+  position: sticky;
+  top: 10px;
+  background-color: steelblue;
+}
+
+/* Float left */
+.float-left {
+  float: left;
+  background-color: seagreen;
+}
+
+/* Float right */
+.float-right {
+  float: right;
+  background-color: purple;
+}
+
+body::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.image-container {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
 }

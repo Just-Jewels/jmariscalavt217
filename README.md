@@ -22,7 +22,7 @@
 <div class="weekly">
   <div class="column">
 
-	 
+	<table> 
 <tb>
 
 	<h4>Weekly Exercises</h4></tb>
@@ -94,7 +94,7 @@
 <dl>
 	<dt>Publishing</dt>
     <dd>Final site</dd>
-</dl>
+</dl></table>
 	
 	</dl>
 	</dl>

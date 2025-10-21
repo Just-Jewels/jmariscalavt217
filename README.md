@@ -29,19 +29,19 @@
 
 <tb><dl><div class="bodies"><span class= "text-wrapper-bottom">
 	<div class="row"><dt>Week 1</dt> 
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png"> e1: First image</a></dd></dl></div>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png"> e1: First image</a></dd></div>
 
 	
 
 
 	<div class="row"><dt>Week 2</dt>
-	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html"> e2: LWD Chapter 4 1-5 exercises</a></dd></div>
+	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html"> e2: LWD Chapter 4 1-5 exercises</a></dd>
 </dl>
     
 
 
 	<div class="row"><dt>Week 3</dt>
-	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html"> e3: Marking up text </a></dd></div>
+	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html"> e3: Marking up text </a></dd>
 </dl>
 
 <div class="row"><dt>Web typography-Seven Principles</dt>
@@ -50,10 +50,10 @@
 </dl></div>
 
 <div class="row"><dt>Week 6</dt><dl>
-	<dl><dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl></div>
+	<dl><dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl>
 
 	<div class="row"><dt>Week 7</dt><dl>
-	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd></dd>
+	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
 <dd><dl><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl><dd></div>
 
 

@@ -14,11 +14,11 @@
 <div class="title-container"><span class="title-bottom">
 	<h1>AVT 217 Introduction to Web Design</h1></span> </div>
 <param value="1000px"><div class="title-container">
-	<table>
-		<tr>
+
+		
 	<th><h2>Juliana Mariscal </h2>
 	<h3>Fall 2025 and Section-001 </h3></th></tr>
-	</table>
+
 <div class="weekly">
   <div class="column">
 

@@ -28,7 +28,7 @@
 <tr><dl><br><div class="bodies"><span class= "text-wrapper-bottom">
 	<dt>Week 1</dt> 
     <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></span>
- <dl></th></dl><tr>
+ <dl></dl><tr>
 	
 
 <tr><tb><dl>
@@ -38,9 +38,9 @@
     
 
 <tr><dl>
-<th>	<dt>Week 3</dt>
+	<dt>Week 3</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
-</dl></th></tr>
+</dl></tr>
 <tr>
 <td><dt>Web typography-Seven Principles</dt>
 	<dt>Week 4</dt>

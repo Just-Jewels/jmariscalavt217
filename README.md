@@ -56,13 +56,13 @@
 
 
 </div>
-</div></div></tb>
+</div></div></tr>
   
 
 <!-- weekly ends-->
 <div id="project"><div class="row">
   <div class="column"><tb>
-<h4>Project</h4><div class="bodies"><span class= "text-wrapper-bottom">
+<tr><h4>Project</h4><div class="bodies"><span class= "text-wrapper-bottom">
 <dl><dl><dl>
 
 	<dt>Research on existing websites</dt>
@@ -93,7 +93,7 @@
 <dl>
 	<dt>Publishing</dt>
     <dd>Final site</dd>
-</dl>
+</dl></tr>
 	
 	</dl>
 	</dl>

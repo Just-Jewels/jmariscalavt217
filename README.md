@@ -11,52 +11,52 @@
 </head>
 
 <body>
-<div><div class="title-container"><span class="title-bottom">
+<div class="title-container"><span class="title-bottom">
 	<h1>AVT 217 Introduction to Web Design</h1></span> </div>
 <param value="1000px"><div class="title-container">
 	<table>
 		<tr>
 	<th></th><h2>Juliana Mariscal </h2>
-	<h3>Fall 2025 and Section-001 </h3></div></th></tr>
+	<h3>Fall 2025 and Section-001 </h3></th></tr>
 
-<div class="weekly"><div class="row">
+<div class="weekly">
   <div class="column">
 
 	 
 <tb><h4>Weekly Exercises</h4></tb>
 
 <tb><dl><br><div class="bodies"><span class= "text-wrapper-bottom">
-	<dt>Week 1</dt> 
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></span>
+	<div class="row"><dt>Week 1</dt> 
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png">e1: First image</a></dd></span></div>
  </dl>
 	
 
 <dl>
-	<dt>Week 2</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html">e2: LWD Chapter 4 1-5 exercises</a></dd>
+	<div class="row"><dt>Week 2</dt>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html">e2: LWD Chapter 4 1-5 exercises</a></dd></div>
 </dl>
     
 
 <dl>
-	<dt>Week 3</dt>
-	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd>
+	<div class="row"><dt>Week 3</dt>
+	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html">e3: Marking up text</a></dd></div>
 </dl>
 
-<dt>Web typography-Seven Principles</dt>
+<div class="row"><dt>Web typography-Seven Principles</dt>
 	<dt>Week 4</dt>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd>
-</dl>
+</dl></div>
 
-<dt>Week 6</dt><dl>
-	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl>
+<div class="row"><dt>Week 6</dt><dl>
+	<dd> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a> </dd></dl></div>
 
-	<dt>Week 7</dt><dl>
+	<div class="row"><dt>Week 7</dt><dl>
 	<dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
-<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl>
+<dd></dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl></div>
 
 
 </div>
-</div></div></tr>
+
   
 
 <!-- weekly ends-->

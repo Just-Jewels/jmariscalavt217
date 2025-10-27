@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: 'Playfair Display', serif;
   color: #fff;
-  background: url('week9/img/element5-digital-XQ5QWR8eZ5I-unsplash.jpg') no-repeat center center/cover;
+  background: url('img/element5-digital-XQ5QWR8eZ5I-unsplash.jpg') no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -66,5 +66,6 @@ p {
     display: block;
   }
 }
+
 
 

@@ -56,7 +56,7 @@
 	<dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
 <dd><dl><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dl><dd></div>
 
-<div class="row"><dt>Week 7</dt><dl>
+<div class="row"><dt>Week 9</dt><dl>
 	<dl><dd><a href="  https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week9/index.html">e9: Thanksgiving Card</a></dd>
 
 		

@@ -1,0 +1,68 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+  background: url('downloads/week9/img/element5-digital-XQ5QWR8eZ5I-unsplash.jpg') no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Card Container */
+.card {
+  background: rgba(72, 35, 15, 0.7);
+  border-radius: 20px;
+  padding: 2rem;
+  text-align: center;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 4px 25px rgba(0,0,0,0.4);
+}
+
+/* Default: show front only (for mobile) */
+.card-front {
+  display: block;
+}
+
+.card-inside {
+  display: none;
+}
+
+/* Headings & Text Styling */
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  color: #f9c784;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #fdd998;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.signature {
+  margin-top: 1.5rem;
+  font-style: italic;
+  color: #ffedcc;
+}
+
+/* Media Query: switch to inside of card at 768px */
+@media (min-width: 768px) {
+  .card-front {
+    display: none;
+  }
+
+  .card-inside {
+    display: block;
+  }
+}

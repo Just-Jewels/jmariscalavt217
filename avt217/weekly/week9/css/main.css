@@ -1,9 +1,9 @@
-/* Global Styles */
+
 body {
   margin: 0;
   font-family: 'Playfair Display', serif;
   color: #fff;
-  background-image: url('week9/img/element5-digital-XQ5QWR8eZ5I-unsplash.jpg');background-repeat: no-repeat;
+  background-image: url('https://images.unsplash.com/photo-1509456592530-5d38e33f3fdd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2352');background-repeat: no-repeat;
   background-size: contain; 
   background-position: center;
   display: flex;
@@ -12,7 +12,7 @@ body {
   height: 100vh;
 }
 
-/* Card Container */
+
 .card {
   background: rgba(72, 35, 15, 0.7);
   border-radius: 20px;
@@ -23,7 +23,7 @@ body {
   box-shadow: 0 4px 25px rgba(0,0,0,0.4);
 }
 
-/* Default: show front only (for mobile) */
+
 .card-front {
   display: block;
 }
@@ -32,7 +32,6 @@ body {
   display: none;
 }
 
-/* Headings & Text Styling */
 h1, h2 {
   margin-bottom: 1rem;
 }
@@ -58,7 +57,6 @@ p {
   color: #ffedcc;
 }
 
-/* Media Query: switch to inside of card at 768px */
 @media (min-width: 768px) {
   .card-front {
     display: none;
@@ -68,6 +66,7 @@ p {
     display: block;
   }
 }
+
 
 
 

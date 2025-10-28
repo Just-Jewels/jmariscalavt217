@@ -78,7 +78,7 @@ body {
 }
 
 /* Title Styling */
-.title-container {
+.title-container {    font-family: 'BOTW';
     text-align: center;
     position: relative;
     width: 100%;

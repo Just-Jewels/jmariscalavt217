@@ -13,15 +13,7 @@ body {
 }
 
 
-.card {
-  background: rgba(72, 35, 15, 0.7);
-  border-radius: 20px;
-  padding: 2rem;
-  text-align: center;
-  width: 90%;
-  max-width: 500px;
-  box-shadow: 0 4px 25px rgba(0,0,0,0.4);
-}
+
 
 
 .card-front {
@@ -66,6 +58,7 @@ p {
     display: block;
   }
 }
+
 
 
 

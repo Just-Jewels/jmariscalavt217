@@ -85,7 +85,7 @@
 <dl> <dd>p2.4: Second iteration of mobile designs</dd> </dl>
 <dl> <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p2.4-desktop/uyuniweb.html"> p2.5: First Iteration of Desktop Designs</a></dd> </dl></dl>
 <dl>	<dd>p2.6: Second iteration of desktop designs</dd> </dl>
-<dl> <dd>p2.7: Final refinement of mobile and desktop designs</dd> </dl>
+<dl> <dd>p2.7: Final refinement of <a href="https://www.figma.com/site/UWg3FTg9zMfi2cV0kJT6wI/Mobile-Uyuni?node-id=0-1&t=2JblnAGMXJpgBR03-1">mobile</a> and <a href="https://www.figma.com/site/utSWmImGDRVmj39p2Ngzln/Desktop-Uyuni?t=2JblnAGMXJpgBR03-1">desktop designs</a></dd> </dl>
 <dl>
 	<dt>My coding </dt>
     <dd>p3.1: Homepage</dd>

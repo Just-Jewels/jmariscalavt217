@@ -1,0 +1,115 @@
+@charset "UTF-8";
+body{
+    margin: 15;
+    padding: 15;
+    font-family: sans-serif;
+}
+    @font-face {
+        font-family: "KOGOK"; /* Choose a descriptive name for your font */
+        src: url("fonts/KOGOK.otf") format("otf"),
+             url("fonts/mycustomfont.woff") format("otf"); /* Provide multiple formats for broader compatibility */
+        font-weight: normal; /* Specify font weight if needed */
+        font-style: normal;  /* Specify font style if needed */
+    }
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+ overflow: fixed;
+
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  -background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;-
+  width: 100%;
+  padding: 20px;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+section{
+    position: fixed;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    overflow: hidden;
+}
+
+section::before{
+    position: fixed;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 25%;
+    background:#0c67d6 ;
+    border-radius: 0 0 50% 50% / 0 0 100% 100%;
+    transform: scaleX(1.5);
+}
+
+
+section .content{
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 900px;
+}
+section .content2{
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 900px;
+}
+
+section .content h2{
+    margin: 0;
+    padding: 0;
+    font-size: 125px; font-family: "KOGOK";
+    color: #000000;
+}
+
+
+section .content p{
+	font-family: "KOGOK";
+    font-size: 32px;
+    color: #000000;
+}
+    .move-about {
+        position: relative;
+        top: -90px; 
+		left: -500px;
+    }
+
+ .move-it {
+        position: relative;
+        top: -130px; 
+		left: -250px;
+    }
+.move-location {
+        position: relative;
+        top: -200px; 
+		right: -250px;
+    }

@@ -191,10 +191,11 @@ section .content p{
 
 .footer-notes{
 	padding: 2px;
+	position: fixed;
 	text-align: center;
 	background-color:#0069DE; 
  font-family: "calendula", sans-serif;
 font-weight: 400;
-	width: 132%;
+	width: 100%;
 font-style: normal;
 	}

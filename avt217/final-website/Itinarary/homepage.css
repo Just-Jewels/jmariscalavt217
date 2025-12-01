@@ -235,3 +235,8 @@ a:link {
 text-decoration: none;
 }
 
+
+a:visited {
+  color: black; /* Or any other desired color */
+}
+

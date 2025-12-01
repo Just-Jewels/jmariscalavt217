@@ -198,3 +198,12 @@ font-weight: 400;
 	width: 133%;
 font-style: normal;
 	}
+a:hover {
+  color: white; /* Example: Sets hover color to red */
+	text-decoration: none;
+}
+
+a:link {
+  color: black; /* Example: Sets unvisited links to blue */
+text-decoration: none;
+}

@@ -208,3 +208,8 @@ a:link {
   color: black; /* Example: Sets unvisited links to blue */
 text-decoration: none;
 }
+
+
+a:visited {
+  color: black; /* Or any other desired color */
+}

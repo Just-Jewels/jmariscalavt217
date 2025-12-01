@@ -88,7 +88,7 @@
 <dl> <dd>p2.7: Final refinement of <a href="https://www.figma.com/site/UWg3FTg9zMfi2cV0kJT6wI/Mobile-Uyuni?node-id=0-1&t=2JblnAGMXJpgBR03-1">mobile</a> and <a href="https://www.figma.com/site/utSWmImGDRVmj39p2Ngzln/Desktop-Uyuni?t=2JblnAGMXJpgBR03-1">desktop designs</a></dd> </dl>
 <dl>
 	<dt>My coding </dt>
-    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/Final-Website/homepage.html">p3.1: Homepage</a></dd>
+    <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/homepage.html">p3.1: Homepage</a></dd>
     <dd>p3.2: About page</dd>
     <dd>p3.3: Third page</dd>
 	<dd>p3.4: Forth page</dd>

@@ -199,12 +199,19 @@ font-weight: 400;
 font-style: normal;
 	}
 
+
+
 a:hover {
-  color: #FFFFFF; /* Example: Sets hover color to red */
+  color: white; /* Example: Sets hover color to red */
 	text-decoration: none;
 }
 
 a:link {
-  color: #000000; /* Example: Sets unvisited links to blue */
+  color: black; /* Example: Sets unvisited links to blue */
 text-decoration: none;
+}
+
+
+a:visited {
+  color: black; /* Or any other desired color */
 }

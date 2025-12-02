@@ -185,7 +185,7 @@ section .content p{
 	font-size: 70px;
 }
 .contentp {
-	font-size: 35px;
+	font-size: 30px;
 	font-family:"kepler-std-semicondensed";
 }
 
@@ -194,7 +194,7 @@ section .content p{
 	text-align: center;
 	background-color:#0069DE; 
  font-family: "calendula", sans-serif;
-font-weight: 400;
+font-weight: bold;
 	width: 133%;
 font-style: normal;
 	}

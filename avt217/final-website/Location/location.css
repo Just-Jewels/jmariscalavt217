@@ -13,6 +13,16 @@ url("css/fonts/mycustomfont.woff") format("otf");
 			
     }
 
+.content {
+  position
+:relative;
+  bottom: 0;
+  -background: rgba(0, 0, 0, 0.5);
+  color: #010101;
+  width: 100%;
+  padding: 20px;
+}
+
 #uyuni {
   position: relative;
   right: 0;

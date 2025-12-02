@@ -129,22 +129,9 @@
 
                             <dl>
                                 <dt>Publishing</dt><br><br><br>
-                               <a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/Homepage.html"><dd>Final site</a></dd>
+                               <a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/Homepage.html"><dd>Final site</dd>
 
                                 
-                            </dl>
-
-                        </span></div>
-
-                </tb></div></div>
-        </table>
-
-    </div>
-    <!-- END RIGHT COLUMN -->
-
-</div>
-<!-- END TWO COLUMNS -->
-
-</body>
+                          
 </html>
 

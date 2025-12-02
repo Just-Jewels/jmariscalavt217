@@ -38,10 +38,12 @@ section .content2 h1{
 	
 }
 section .content2 p{
-	potition:relative;
+	potition:center;
 	z-index: 1;
-	margin: 0 auto;
-	font-size: 200px;
+	margin: auto;
+	font-size: 500px;
+	align-content: center;
+	
 	
 }
 
@@ -97,12 +99,13 @@ section::before{
 }
 
 
-section .content{
+ .content section{
     position: relative;
     z-index: 1;
-    margin: 0 auto;
+    margin: 0 0;
     text-align: center;
     max-width: 900px;
+	 max-height:200px;
 	
 }
 
@@ -189,7 +192,7 @@ section .content p{
 	text-align: center;
 	background-color:#0069DE; 
  font-family: "calendula", sans-serif;
-font-weight: bold;
+font-weight: 400;
 	width: auto;
 font-style: normal;
 	}
@@ -198,31 +201,33 @@ font-style: normal;
 
 
 
-	.folder {
-    background: white;
-    margin: 20px auto;
-    max-width: 1000px;
-    border-radius: 12px;
-    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
-    overflow: hidden;
-}
-
-.time {
-    padding: 15px 20px 5px;
-    font-weight: bold;
-    font-size: 18px;
-}
-
-.extra {
-    padding: 0 20px 20px;
-    font-size: 16px;
-    line-height: 1.5em;
 	
-}
+
 
 img {
-    width: 100%;
-    display: block;
-    height: inherit;
+    width: 300px,;
+    display:flex ;
+    height: 300px;
 }
 
+
+
+table {
+  margin: 20px; /* Adds 20px of space on all sides */
+}
+
+/* Or for specific sides: */
+table {
+  margin-top: 10px;
+  margin-right: 5px;
+	
+  margin-bottom: 15px;
+  margin-left: 300px;
+}
+
+td, th {
+  padding: 10px; 
+	align-content: center;
+	font-size: 50px
+	;/* Adds 10px of padding on all sides */
+}

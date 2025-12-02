@@ -9,7 +9,8 @@ body{
 }
     @font-face {
         font-family: "KOGOK"; /* Choose a descriptive name for your font */
-        src: url("css/fonts/KOGOK.otf") format("otf")
+        src: url("css/fonts/KOGOK.otf") format("otf")font-weight: normal; /* Optional: Define font weight */
+        font-style: normal;
 ;
 			
     }

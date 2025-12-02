@@ -128,3 +128,16 @@ a:hover {
     font-style: italic;
     color: lemonchiffon;
 }
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* Creates three equal-width columns */
+  gap: 20px; /* Adds spacing between columns */
+}
+
+.column {
+  /* Optional: Add styling for individual columns */
+  background-color: lightblue;
+  padding: 15px;
+}
+

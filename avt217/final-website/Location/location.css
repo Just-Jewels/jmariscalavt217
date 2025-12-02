@@ -258,7 +258,10 @@ body .content h2{
     padding: 0;
     font-size: 125px; font-family: "KOGOK";
     color: #000000;
+	position: relative;
+
 }
+
 
 a:link {
   color: #000000;text-decoration: none; /* Example: Sets unvisited links to blue */

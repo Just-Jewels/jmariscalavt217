@@ -30,39 +30,39 @@
             <div class="column">
                 <table>
                     <tb><h4>Weekly Exercises</h4></tb>
-
+<br><br>
                     <tb><dl><div class="bodies"><span class="text-wrapper-bottom">
 
                         <div class="row"><dt>Week 1</dt> 
-                            <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png"> e1: First image</a></dd>
+                            <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png"> e1: First image</a></dd><br>
                         </div>
 
                         <div class="row"><dt>Week 2</dt>
-                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html"> e2: LWD Chapter 4 1-5 exercises</a></dd></dl>
+                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week2/index.html"> e2: LWD Chapter 4 1-5 exercises</a></dd></dl><br>
                         </div>
 
                         <div class="row"><dt>Week 3</dt>
-                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html"> e3: Marking up text </a></dd></dl>
+                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week3/index-3.html"> e3: Marking up text </a></dd></dl><br>
                         </div>
 
                         <div class="row">
                             <dt>Web typography-Seven Principles</dt>
                             <dt>Week 4</dt>
-                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd></dl>
+                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%206/index.html">e4: CSS box and Position</a></dd></dl><br>
                         </div>
 
                         <div class="row"><dt>Week 6</dt>
-                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a></dd></dl>
+                            <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week4/exercise4-midterm.html"> e6: Web Typography-Seven Principles </a></dd></dl><br>
                         </div>
 
-                        <div class="row"><dt>Week 7</dt>
+                        <div class="row"><dt>Week 7</dt><br>
                             <dl>
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/ex-7/Untitled-1.html">e7: Columns and Rows</a></dd>
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/e7-2/e7-2-homework.html"> e7-2: Columns and Rows Homework </a></dd>
                             </dl>
                         </div>
 
-                        <div class="row"><dt>Week 9</dt>
+                        <div class="row"><dt>Week 9</dt><br>
                             <dl>
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week9/index.html">e9: Thanksgiving Card</a></dd>
                                 <dd><a href="xxx"> Next Ex </a></dd>
@@ -86,11 +86,11 @@
             <div id="project"><div class="row">
                 <div class="column"><tb>
 
-                    <tr><h4>Project</h4>
+                    <tr><h4>Project</h4><br><br>
                         <div class="bodies"><span class="text-wrapper-bottom">
 
                             <dl><dl><dl>
-                                <dt>Research on existing websites</dt>
+                                <dt>Research on existing websites</dt><br>
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/site_critique.html">p1.1: Website critique</a></dd>
                             </dl></dl></dl>
 
@@ -98,7 +98,7 @@
 
                             <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/p1-3-wires.html"> p1.3: Wireframe-desktop and mobile </a></dd></dl>
 
-                            <dl><dt>My design </dt></dl>
+                            <dl><dt>My design </dt></dl><br><br>
 
                             <dl><dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/process/Project-2.1.html">p2.1: Style board </a></dd></dl>
 
@@ -120,15 +120,15 @@
                             </dd></dl>
 
                             <dl>
-                                <dt>My coding </dt>
+                                <dt>My coding </dt><br><br>
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/Homepage.html">p3.1: Homepage</a></dd>
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/About/About.html">p3.2: About page</a></dd>
                                 <dd><a herf="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Itinarary/Itinarary.html"> p3.3: Third page</a></dd>
                                 <dd>4th - 5th page in Third Page</dd>
                             </dl>
-
+<br>
                             <dl>
-                                <dt>Publishing</dt><br><br><br>
+                                <dt>Publishing</dt><br>
                                <a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/Homepage.html"><dd>Final site</dd>
 
                                 

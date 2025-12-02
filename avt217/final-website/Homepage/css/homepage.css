@@ -201,17 +201,21 @@ font-style: normal;
 
 
 
-a:hover {
-  color: white; /* Example: Sets hover color to red */
-	text-decoration: none;
-}
-
 a:link {
-  color: black; /* Example: Sets unvisited links to blue */
-text-decoration: none;
+  color: #000000;text-decoration: none; /* Example: Sets unvisited links to blue */
 }
 
-
+/* Styling for visited links */
 a:visited {
-  color: black; /* Or any other desired color */
+  color: #000000;text-decoration: none; /* Example: Sets visited links to purple */
+}
+
+/* Styling for links when the mouse hovers over them */
+a:hover {
+  color: #ffffff;text-decoration: none; /* Example: Sets hover color to red */
+}
+
+/* Styling for active links (while being clicked) */
+a:active {
+  color: #000000; text-decoration: none;/* Example: Sets active color to green */
 }

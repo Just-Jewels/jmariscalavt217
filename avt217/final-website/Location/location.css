@@ -20,7 +20,7 @@ url("css/fonts/mycustomfont.woff") format("otf");
   -background: rgba(0, 0, 0, 0.5);
   color: #010101;
   width: 100%;
-  padding: 20px;}
+  padding: 20px;
 }
 
 #uyuni {
@@ -112,7 +112,7 @@ section::before{
  .content section{
     position: relative;
     z-index: 1;
-    margin: 0 0;
+    margin: 0 auto;
     text-align: center;
     max-width: 900px;
 	 max-height:200px;

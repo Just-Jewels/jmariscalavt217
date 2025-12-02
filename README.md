@@ -67,7 +67,7 @@
                                 <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week9/index.html">e9: Thanksgiving Card</a></dd>
                                 <dd><a href="xxx"> Next Ex </a></dd>
                             </dl>
-                        </div> <a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/Homepage.html"><dd>Final site</a></dd>
+                        </div> 
                         
 
                     </span></div></dl></tb>
@@ -128,8 +128,8 @@
                             </dl>
 
                             <dl>
-                                <dt>Publishing</dt><br>
-                               
+                                <dt>Publishing</dt><br><br><br>
+                               <a href="https://just-jewels.github.io/jmariscalavt217/avt217/final-website/Homepage/Homepage.html"><dd>Final site</a></dd>
 
                                 
                             </dl>

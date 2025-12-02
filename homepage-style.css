@@ -8,6 +8,7 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+    <link rel="stylesheet" href="https://use.typekit.net/fkq3zfy.css">
 }
 
 @font-face {
@@ -15,10 +16,9 @@
     src: url('avt217/kogok.otf') format('opentype');
 }
 
-@font-face {
-    font-family: 'Universitas';
-    src: url('avt217/universitas_studii_salamantini.otf') format('opentype');
-}
+@font-face { font-family: "kepler-std", serif;
+font-weight: 400;
+font-style: normal;}
 
 /* CSS Variables (must use -- for custom properties) */
 :root {
@@ -36,7 +36,9 @@ body {
     padding: 0;
     line-height: 1.6;
     color: var(--text-color);
-    font-family: sans-serif;
+    font-family: sans-serif;font-family: "kepler-std", serif;
+font-weight: 400;
+font-style: normal;
 }
 
 #wrapper {

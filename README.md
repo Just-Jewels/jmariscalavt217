@@ -27,11 +27,7 @@
 
 	<h4>Weekly Exercises</h4></tb>
 
-<div class="container">
-  <div class="column">Column 1 Content</div>
-  <div class="column">Column 2 Content</div>
-  <div class="column">Column 3 Content</div>
-</div>
+
 <tb><dl><div class="bodies"><span class= "text-wrapper-bottom">
 	<div class="row"><dt>Week 1</dt> 
     <dd><a href="https://just-jewels.github.io/jmariscalavt217/avt217/weekly/Week%201/ghost_remix_desktop.png"> e1: First image</a></dd></div>
@@ -65,11 +61,10 @@
 	<dl><dd><a href="  https://just-jewels.github.io/jmariscalavt217/avt217/weekly/week9/index.html">e9: Thanksgiving Card</a></dd>
 
 		
-<dd><dl><a href="xxx"> Next Ex </a></dl><dd></div>
-</div>
+<dd><dl><a href="xxx"> Next Ex </a></dl><dd>
 
-
-
+</table>
+<table>
 <!-- weekly ends-->
 <div id="project"><div class="row">
   <div class="column"><tb>

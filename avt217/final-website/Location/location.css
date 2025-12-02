@@ -120,12 +120,7 @@ section::before{
 }
 
 
-body .content h2{
-    margin: 0;
-    padding: 0;
-    font-size: 125px; font-family: "KOGOK";
-    color: #000000;
-}
+
 
 .titles {
 	font-family: "KOGOK";

@@ -1,0 +1,232 @@
+@charset "UTF-8";
+body{
+    margin: 15;
+    padding: 0;
+    font-family: sans-serif;
+	z-index: 100;
+	
+}
+    @font-face {
+        font-family: "KOGOK"; /* Choose a descriptive name for your font */
+        src: url("css/fonts/KOGOK.otf") format("otf"),
+url("css/fonts/mycustomfont.woff") format("otf");
+			
+    }
+
+#uyuni {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  width: 1920px;
+  height: 1080px;
+ overflow:hidden;
+z-index: -1
+
+}
+
+
+/* Add some content at the bottom of the video/page */
+
+
+
+section .content2 h1{
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+    text-align: center;
+	font-size: 150;
+	
+}
+section .content2 p{
+	potition:center;
+	z-index: 1;
+	margin: auto;
+	font-size: 500px;
+	align-content: center;
+	
+	
+}
+
+.whitebox {
+  position
+:center ;
+	top:75px;
+	
+  background-color: white;
+  color: #010101;
+  background-width: 1080px;
+ 
+	background-height:400px;
+
+}
+
+/* Style the butt
+/* Style the button used to pause/play the video */
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+section{
+    position: fixed;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    overflow: hidden;
+}
+
+section::before{
+    position: fixed;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 25%;
+    background:#0c67d6 ;
+    border-radius: 0 0 50% 50% / 0 0 100% 100%;
+    transform: scaleX(1.5);
+}
+
+
+section .content{
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 900px;
+	
+}
+
+
+body .content h2{
+    margin: 0;
+    padding: 0;
+    font-size: 125px; font-family: "KOGOK";
+    color: #000000;
+}
+
+.titles {
+	font-family: "KOGOK";
+    font-size: 100px;
+    color: #000000;
+	text-align: center;
+		z-index: 900;
+	
+	
+	
+	
+	
+	
+}
+section .content p{
+	font-family: "KOGOK";
+    font-size: 32px;
+    color: #000000;
+}
+.move-c2 {
+        position: relative;
+        top: -90px; 
+		left: -500px;
+    }
+    .move-about {
+        position: relative;
+        top: -90px; 
+		left: -500px;
+    }
+
+ .move-it {
+        position: relative;
+        top: -130px; 
+		left: -250px;
+    }
+.move-location {
+        position: relative;
+        top: -200px; 
+		right: -250px;
+    }
+.move-book {
+        position: relative;
+        top: -290px; 
+		right: -500px;
+    }
+.circle-box {
+    width: 132%; /* Set equal width and height for a perfect circle */
+    height: 150px;
+	position:absolute;
+	top: 700px;
+    background-color: white; /* Example background color */
+     
+    border-radius: 50%; /* This is the key to making it a circle */
+    display: center; /* Use flexbox for easy content centering */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+     /* Add some padding around the content */
+}
+
+.content2h1 {
+	font-family:"kepler-std-semicondensed";
+	font-size: 40px;
+	text-align: center;
+	
+}
+.content2p {
+	font-size: 30px;
+	font-family:"kepler-std-semicondensed";
+	text-align: center;
+}
+
+.footer-notes{
+	padding: 2px;
+	text-align: center;
+	background-color:#0069DE; 
+ font-family: "calendula", sans-serif;
+font-weight: 400;
+	width: auto;
+font-style: normal;
+	}
+
+
+
+
+
+	
+
+
+img {
+    width: 300px,;
+    display:flex ;
+    height: 300px;
+}
+
+
+
+table {
+  margin: 20px; /* Adds 20px of space on all sides */
+}
+
+/* Or for specific sides: */
+table {
+  margin-top: 10px;
+  margin-right: 5px;
+	
+  margin-bottom: 15px;
+  margin-left: 300px;
+}
+
+td, th {
+  padding: 10px; 
+	align-content: center;
+	font-size: 50px
+	;/* Adds 10px of padding on all sides */
+}

@@ -141,3 +141,19 @@ a:hover {
   padding: 15px;
 }
 
+
+
+.two-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;              /* space between columns */
+    width: 100%;
+}
+
+.left-column,
+.right-column {
+    width: 48%;             /* two columns side by side */
+}
+

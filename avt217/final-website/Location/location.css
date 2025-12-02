@@ -6,12 +6,14 @@ body{
 	z-index: 100;
 	
 }
+@font-face { font-family: "BOTW";
+			src: url"
     @font-face {
         font-family: "KOGOK"; /* Choose a descriptive name for your font */
-        src: url("css/fonts/KOGOK.otf") format("otf"),
-url("css/fonts/mycustomfont.woff") format("otf");
+        src: url("css/fonts/KOGOK.otf") format("otf");
 			
     }
+
 
 .content {
   position

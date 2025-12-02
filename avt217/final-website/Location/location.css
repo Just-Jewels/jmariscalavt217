@@ -124,7 +124,11 @@ body .content h2{
 	text-align: center;
 		z-index: 900;
 	
-	
+	section .content p{
+	font-family: "KOGOK";
+    font-size: 32px;
+    color: #000000;
+}
 	
 	
 	
@@ -232,7 +236,23 @@ td, th {
 	;/* Adds 10px of padding on all sides */
 }
 
+.content section{
+    position: relative;
+    z-index: 1;
+    margin: 0 0;
+    text-align: center;
+    max-width: 900px;
+	 max-height:200px;
+	
+}
 
+
+body .content h2{
+    margin: 0;
+    padding: 0;
+    font-size: 125px; font-family: "KOGOK";
+    color: #000000;
+}
 
 a:link {
   color: #000000;text-decoration: none; /* Example: Sets unvisited links to blue */

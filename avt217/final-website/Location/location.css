@@ -16,8 +16,7 @@ body{
 
 
 .content {
-  position
-:relative;
+  position:relative;
   bottom: 0;
   -background: rgba(0, 0, 0, 0.5);
   color: #010101;

@@ -29,8 +29,8 @@
         <div class="weekly">
             <div class="column">
                 <table>
-                   <br> <tb><h4>Weekly Exercises</h4></tb>
-<br>
+                   <tb><h4>Weekly Exercises</h4></tb>
+
                     <tb><dl><div class="bodies"><span class="text-wrapper-bottom">
 
                         <div class="row"><dt>Week 1</dt> 
@@ -86,7 +86,7 @@
             <div id="project"><div class="row">
                 <div class="column"><tb>
 
-                    <tr><h4>Project</h4><br><br>
+                    <tr><h4>Project</h4>
                         <div class="bodies"><span class="text-wrapper-bottom">
 
                             <dl><dl><dl>

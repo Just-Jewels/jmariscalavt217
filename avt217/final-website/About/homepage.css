@@ -9,7 +9,7 @@ body{
 }
     @font-face {
         font-family: "KOGOK"; /* Choose a descriptive name for your font */
-        src: url("css/fonts/KOGOK.otf") format("otf")
+        src: url("css/fonts/KOGOK.woff") format("woff")
         font-style: normal;
 ;
 			

@@ -7,8 +7,8 @@ body{
 }
     @font-face {
         font-family: "KOGOK"; /* Choose a descriptive name for your font */
-        src: url("fonts/KOGOK.otf") format("otf"),
-             url("fonts/mycustomfont.woff") format("otf");
+        src: url("fonts/KOGOK.woff") format("woff"),
+             url("fonts/mycustomfont.woff") format("otf"); font-style: normal; font-weight: normal;
 			
     }
 
@@ -130,13 +130,13 @@ section .content{
 body .content h2{
     margin: 0;
     padding: 0;
-    font-size: 125px; font-family: "KOGOK";
+    font-size: 125px; font-family: "KOGOK"; font-style: normal;
     color: #000000;
 }
 
 
 section .content p{
-	font-family: "KOGOK";
+	font-family: "KOGOK"; font-style: normal;
     font-size: 32px;
     color: #000000;
 }

@@ -7,7 +7,7 @@ body{
 }
     @font-face {
         font-family: "KOGOK"; /* Choose a descriptive name for your font */
-        src: url("fonts/KOGOK.otf") format("otf"),
+        src: url("fonts/KOGOK..woff") format("woff"),
              url("fonts/mycustomfont.woff") format("otf");
 			
     }
@@ -197,4 +197,22 @@ section .content p{
 font-weight: 400;
 	width: 133%;
 font-style: normal;
-	}
+	}a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:active {
+    color: #000000;
+    text-decoration: none;
+}

@@ -44,7 +44,7 @@ body {
     flex-grow: 1;
     top: 70px;
     background-color: #ffffff;
-    color: #010101;
+
     width: 99%;
     height: 1100px;
     padding: 10px;
@@ -64,7 +64,7 @@ section .content2 p {
     position: relative;
     z-index: 1;
     margin: 0 auto;
-    font-size: 200px;
+    font-size: -200px;
 }
 
 .whitebox {
@@ -76,20 +76,7 @@ section .content2 p {
 
 /* ---------------------- BUTTON ---------------------- */
 
-#myBtn {
-    width: 200px;
-    font-size: 18px;
-    padding: 10px;
-    border: none;
-    background: #000;
-    color: #fff;
-    cursor: pointer;
-}
 
-#myBtn:hover {
-    background: #ddd;
-    color: black;
-}
 
 /* ---------------------- SECTIONS ---------------------- */
 
@@ -174,6 +161,7 @@ section .content p {
 .contentp {
     font-size: 30px;
     font-family: "kepler-std-semicondensed";
+	ba
 }
 
 /* ---------------------- FOOTER ---------------------- */
@@ -193,7 +181,9 @@ section .content p {
 .imageefects {
     display: flex;
     justify-content: center;
-    width: 100%;
+	width: auto;
+  object: fill;
+	
 }
 
 /* ---------------------- LINKS ---------------------- */

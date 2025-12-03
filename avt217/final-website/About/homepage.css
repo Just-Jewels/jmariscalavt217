@@ -1,143 +1,173 @@
 @charset "UTF-8";
-
-/* ---------------------- GLOBAL STYLES ---------------------- */
-
-@font-face {
-    font-family: "KOGOK";
-    src: url("fonts/KOGOK.woff") format("woff");
-    font-style: normal;
-    font-weight: normal;
-}
-
-body {
-    margin: 15px;
+body{
+    margin: 15;
     padding: 0;
     font-family: sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-content: center;
+	
 }
-
-/* ---------------------- VIDEO BACKGROUND ---------------------- */
+    @font-face {
+        font-family: "KOGOK"; /* Choose a descriptive name for your font */
+        src: url("fonts/KOGOK.woff") format("woff"),
+url("css/fonts/mycustomfont.woff") format("otf");
+			
+    }
 
 #uyuni {
-    position: relative;
-    right: 0;
-    bottom: 0;
-    width: 1920px;
-    height: 1080px;
-    overflow: hidden;
-    z-index: -1;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  width: 1920px;
+  height: 1080px;
+ overflow:hidden;
+z-index: -1
+
 }
 
-/* ---------------------- CONTENT AREAS ---------------------- */
 
+
+/* Add some content at the bottom of the video/page */
 .content {
-    position: relative;
-    color: #010101;
-    width: 100%;
-    padding: 20px;
+  position
+:relative;
+  bottom: 0;
+  -background: rgba(0, 0, 0, 0.5);
+  color: #010101;
+  width: 100%;
+  padding: 20px;
 }
-
 .content2 {
-    margin-top: 200px;
-    flex-grow: 1;
-    top: 70px;
-    background-color: #ffffff;
-
-    width: 99%;
-    height: 1100px;
-    padding: 10px;
-    text-align: center;
-    text-transform: inherit;
+  position
+:relative ;
+	top:70px;
+  background-color: white;
+  color: #010101;
+  width: 99%;
+	height: 1100;
+  padding: 10px;
+text-align: center;
+	text-transform: inherit;
+		
 }
 
-section .content2 h1 {
+section .content2 h1{
     position: relative;
     z-index: 1;
     margin: 0 auto;
     text-align: center;
-    font-size: 300px;
+	font-size: 300px;
+	
 }
-
-section .content2 p {
-    position: relative;
-    z-index: 1;
-    margin: 0 auto;
-    font-size: -200px;
+section .content2 p{
+	potition:relative;
+	z-index: 1;
+	margin: 0 auto;
+	font-size: 200px;
+	
 }
 
 .whitebox {
-    position: absolute;
-    top: 75px;
-    background-color: white;
-    color: #010101;
+  position
+:center ;
+	top:75px;
+	
+  background-color: white;
+  color: #010101;
+  background-width: 1080px;
+ 
+	background-height:400px;
+
 }
 
-/* ---------------------- BUTTON ---------------------- */
+/* Style the butt
+/* Style the button used to pause/play the video */
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
 
-
-
-/* ---------------------- SECTIONS ---------------------- */
-
-section {
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+section{
     position: fixed;
     width: 100%;
     height: 80vh;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: top;
     overflow: hidden;
 }
 
-section::before {
+section::before{
     position: fixed;
-    content: "";
+    content: '';
     top: 0;
     left: 0;
     width: 100%;
     height: 25%;
-    background: #0c67d6;
+    background:#0c67d6 ;
     border-radius: 0 0 50% 50% / 0 0 100% 100%;
     transform: scaleX(1.5);
 }
 
-section .content {
+
+section .content{
     position: relative;
     z-index: 1;
     margin: 0 auto;
     text-align: center;
     max-width: 900px;
+	
 }
 
-/* ---------------------- TEXT USING KOGOK ---------------------- */
 
-body .content h2 {
+body .content h2{
     margin: 0;
     padding: 0;
-    font-size: 125px;
-    font-family: "KOGOK", sans-serif;
+    font-size: 125px; font-family: "KOGOK";
     color: #000000;
 }
 
-section .content p {
-    font-family: "KOGOK", sans-serif;
+
+section .content p{
+	font-family: "KOGOK";
     font-size: 32px;
     color: #000000;
 }
+.move-c2 {
+        position: relative;
+        top: -90px; 
+		left: -500px;
+    }
+    .move-about {
+        position: relative;
+        top: -90px; 
+		left: -500px;
+    }
 
-/* ---------------------- POSITIONING HELPERS ---------------------- */
-
-.move-c2       { position: relative; top: -90px;  left: -500px; }
-.move-about    { position: relative; top: -90px;  left: -500px; }
-.move-it       { position: relative; top: -130px; left: -250px; }
-.move-location { position: relative; top: -200px; right: -250px; }
-.move-book     { position: relative; top: -290px; right: -500px; }
-
-/* ---------------------- CIRCLE ELEMENT ---------------------- */
-
+ .move-it {
+        position: relative;
+        top: -130px; 
+		left: -250px;
+    }
+.move-location {
+        position: relative;
+        top: -200px; 
+		right: -250px;
+    }
+.move-book {
+        position: relative;
+        top: -290px; 
+		right: -500px;
+    }
 .circle-box {
-    width: 100%; /* Set equal width and height for a perfect circle */
+    width: 132%; /* Set equal width and height for a perfect circle */
     height: 150px;
 	position:absolute;
 	top: 700px;
@@ -150,60 +180,40 @@ section .content p {
      /* Add some padding around the content */
 }
 
-/* ---------------------- CONTENT TYPOGRAPHY ---------------------- */
-
 .contenth1 {
-    font-family: "kepler-std-semicondensed";
-    font-size: 70px;
-    margin-top: -150px;
+	font-family:"kepler-std-semicondensed";
+	font-size: 70px;
 }
-
 .contentp {
-    font-size: 30px;
-    font-family: "kepler-std-semicondensed";
-	ba
+	font-size: 30px;
+	font-family:"kepler-std-semicondensed";
 }
 
-/* ---------------------- FOOTER ---------------------- */
-
-.footer-notes {
-    padding: 2px;
-    text-align: center;
-    background-color: #0069DE;
-    font-family: "calendula", sans-serif;
-    font-weight: bold;
-    width: auto;
-    font-style: normal;
-}
-
-/* ---------------------- IMAGES ---------------------- */
-
-.imageefects {
-    display: flex;
-    justify-content: center;
-	width: auto;
-  object: fill;
-	
-}
-
-/* ---------------------- LINKS ---------------------- */
+.footer-notes{
+	padding: 2px;
+	text-align: center;
+	background-color:#0069DE; 
+ font-family: "calendula", sans-serif;
+font-weight: 400;
+	width: 133%;
+font-style: normal;
+	}
 
 a:link {
-    color: #000000;
-    text-decoration: none;
+  color: #000000;text-decoration: none; /* Example: Sets unvisited links to blue */
 }
 
+/* Styling for visited links */
 a:visited {
-    color: #000000;
-    text-decoration: none;
+  color: #000000;text-decoration: none; /* Example: Sets visited links to purple */
 }
 
+/* Styling for links when the mouse hovers over them */
 a:hover {
-    color: #ffffff;
-    text-decoration: none;
+  color: #ffffff;text-decoration: none; /* Example: Sets hover color to red */
 }
 
+/* Styling for active links (while being clicked) */
 a:active {
-    color: #000000;
-    text-decoration: none;
+  color: #000000; text-decoration: none;/* Example: Sets active color to green */
 }

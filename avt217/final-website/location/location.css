@@ -231,3 +231,22 @@ td, th {
 	font-size: 50px
 	;/* Adds 10px of padding on all sides */
 }
+
+	a:link {
+  color: #000000;text-decoration: none; /* Example: Sets unvisited links to blue */
+}
+
+/* Styling for visited links */
+a:visited {
+  color: #000000;text-decoration: none; /* Example: Sets visited links to purple */
+}
+
+/* Styling for links when the mouse hovers over them */
+a:hover {
+  color: #ffffff;text-decoration: none; /* Example: Sets hover color to red */
+}
+
+/* Styling for active links (while being clicked) */
+a:active {
+  color: #000000; text-decoration: none;/* Example: Sets active color to green */
+}

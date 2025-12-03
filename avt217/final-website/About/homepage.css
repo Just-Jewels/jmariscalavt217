@@ -150,15 +150,17 @@ section .content p {
 /* ---------------------- CIRCLE ELEMENT ---------------------- */
 
 .circle-box {
-    width: 100%;
+    width: 100%; /* Set equal width and height for a perfect circle */
     height: 150px;
-    position: absolute;
-    top: 700px;
-    background-color: #ffffff;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+	position:absolute;
+	top: 700px;
+    background-color: white; /* Example background color */
+     
+    border-radius: 50%; /* This is the key to making it a circle */
+    display: center; /* Use flexbox for easy content centering */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+     /* Add some padding around the content */
 }
 
 /* ---------------------- CONTENT TYPOGRAPHY ---------------------- */

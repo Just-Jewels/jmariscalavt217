@@ -7,7 +7,7 @@ body{
 }
     @font-face {
         font-family: "KOGOK"; /* Choose a descriptive name for your font */
-        src: url("fonts/KOGOK.otf") format("otf"),
+        src: url("fonts/KOGOK.woff") format("woff"),
              url("fonts/mycustomfont.woff") format("otf");
 			
     }
